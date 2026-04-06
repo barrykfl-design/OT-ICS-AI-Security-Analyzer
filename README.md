@@ -42,18 +42,18 @@ Drop in a ICS file captured from your OT network. Within minutes, receive a boar
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│         OT-ICS-AI  |  OT/ICS Security ICS Analyzer   │
+│         OT-ICS-AI  |  OT/ICS Security ICS Analyzer      │
 ├─────────────────────────────────────────────────────────┤
 │  1  INPUT / OUTPUT                                      │
-│  ICS File    [ plant_network_capture.ICS ] Browse...  │
-│  Output Folder [ C:\Reports\             ] Browse...   │
+│  ICS File    [ plant_network_capture.ICS ] Browse...    │
+│  Output Folder [ C:\Reports\             ] Browse...    │
 ├─────────────────────────────────────────────────────────┤
-│  2  LLM BACKEND              [ RUN ANALYSIS ]          │
-│  Backend  [ Anthropic (Claude)          ▼ ]            │
+│  2  LLM BACKEND              [ RUN ANALYSIS ]           │
+│  Backend  [ Anthropic (Claude)          ▼ ]             │
 ├─────────────────────────────────────────────────────────┤
 │  3  FORMAT & OPTIONS                                    │
-│  Save As  ● Word  ○ PowerPoint  ○ Both  ○ JSON         │
-│  Options  ☑ Verbose  ☐ Test LLM   Console: ☑ Show      │
+│  Save As  ● Word  ○ PowerPoint  ○ Both  ○ JSON          │
+│  Options  ☑ Verbose  ☐ Test LLM   Console: ☑ Show     │
 └─────────────────────────────────────────────────────────┘
 ```
 
@@ -121,7 +121,7 @@ OT-ICS-AI uses a **two-layer detection architecture**. This means critical anoma
 │  → MITRE ATT&CK for ICS technique mapping                │
 │  → Risk Score (0–10) with full justification             │
 │  → Compliance gap analysis (IEC 62443 / NERC CIP /       │
-│    NIST SP 800-82)                                        │
+│    NIST SP 800-82)                                       │
 │  → Prioritised remediation recommendations               │
 └──────────────────────────────────────────────────────────┘
 ```
