@@ -14,7 +14,7 @@
 
 ---
 
-## The Problem Every OT Security Team Faces
+## The Problem Every OT/ICS Security Team Faces
 
 Industrial networks are not IT networks. The protocols are different, the risks are different, and the consequences of a breach — turbines tripping, pipelines stopping, substations going dark — are catastrophic. Yet most security teams are forced to use IT-centric tools that speak Ethernet but are blind to **Modbus**, **DNP3**, **S7comm**, and **EtherNet/IP**.
 
