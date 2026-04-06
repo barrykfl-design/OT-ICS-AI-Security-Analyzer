@@ -130,7 +130,7 @@ OT-ICS-AI uses a **two-layer detection architecture**. This means critical anoma
 
 ---
 
-### 📊 Professional Report Generation
+### 📊 Professional Report Generation ( *Please noted this is a prototype only)
 
 Every analysis produces publication-ready output:
 
