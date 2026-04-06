@@ -63,7 +63,7 @@ Drop in a ICS file captured from your OT network. Within minutes, receive a boar
 
 ### 🔬 Deep Protocol Analysis Engine
 
-OT-ICS-AI parses raw ICS bytes with zero external dependencies — no Scapy required for core analysis. Every OT protocol is inspected at the field level:
+OT/ICS-AI parses raw ICS bytes with zero external dependencies — no Scapy required for core analysis. Every OT protocol is inspected at the field level:
 
 **Supported Industrial Protocols (20+)**
 
@@ -186,7 +186,9 @@ No installation required — runs as a standalone executable
 
 ### Run — GUI Mode
 
-Simply double-click **OT-ICS-AI.exe** (Windows) or launch the binary on Linux/macOS.
+Link: https://github.com/barrykfl-design/OT-ICS-AI-Security-Analyzer/blob/main/OTICS-AI.exe
+
+Simply doenload and double-click **OTICS-AI.exe** (Windows).
 
 The graphical interface launches immediately — no setup, no dependencies, no configuration files.
 
