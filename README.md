@@ -179,8 +179,6 @@ OT-ICS-AI works with your existing LLM infrastructure — on-premises or cloud:
 
 ```
 Windows 10 / 11 (64-bit)
-Linux x86_64
-macOS 12+
 No installation required — runs as a standalone executable
 ```
 
